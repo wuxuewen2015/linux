@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <sys/ioctl.h>
-
+#include <linux.h>
 int main(int argc, char **argv)
 {
 	int on;
