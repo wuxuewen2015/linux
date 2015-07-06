@@ -1,0 +1,1 @@
+cmd_/opt/driver/button/button_module.ko := arm-linux-ld -EL -r  -T /opt/FriendlyARM/mini2440/linux-2.6.32.2/scripts/module-common.lds  -o /opt/driver/button/button_module.ko /opt/driver/button/button_module.o /opt/driver/button/button_module.mod.o

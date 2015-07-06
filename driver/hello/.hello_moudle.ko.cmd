@@ -1,0 +1,1 @@
+cmd_/opt/driver/hello/hello_moudle.ko := arm-linux-ld -EL -r  -T /opt/FriendlyARM/mini2440/linux-2.6.32.2/scripts/module-common.lds  -o /opt/driver/hello/hello_moudle.ko /opt/driver/hello/hello_moudle.o /opt/driver/hello/hello_moudle.mod.o
