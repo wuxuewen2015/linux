@@ -1,6 +1,1 @@
-#include <std.h>
-void main()
-{
-	printf("good start");
-	
-}
+good job~~~
