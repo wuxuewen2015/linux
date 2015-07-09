@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <sys/ioctl.h>
+<<<<<<< Updated upstream
+=======
+a good job. I am very happen.are you 
+
+>>>>>>> Stashed changes
 int main(int argc, char **argv)
 {
 	int on;
